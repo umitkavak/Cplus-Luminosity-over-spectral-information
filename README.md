@@ -59,7 +59,7 @@ header = hdu_list[0].header
 
 ### 4. Convert Intensity Units
 
-Convert intensity from K km/s to erg/s/cm²/sr using the conversion factor \( 7 	imes 10^{-6} \).
+Convert intensity from K km/s to erg/s/cm²/sr using the conversion factor of 7.0e-6 for the [CII] 158 micrin line observations.
 
 ```python
 # Convert intensity from K km/s to erg/s/cm²/sr
