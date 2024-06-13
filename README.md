@@ -1,5 +1,4 @@
-
-Intensity Conversion and [CII] (158 micron) Luminosity Calculation
+# Intensity Conversion and [CII] (158 micron) Luminosity Calculation
 
 This repository contains a Python script to convert the intensity data in a FITS file from K km/s to erg/s/cm²/sr at [C II] 158 micron, and then calculate the [C II] luminosity of the NGC 7538 region. The script performs unit conversions, handles the data, and calculates the luminosity in both Watts and solar luminosities.
 
