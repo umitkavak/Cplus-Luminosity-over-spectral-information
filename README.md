@@ -171,6 +171,10 @@ Ensure that the FITS file `NGC7538_CII_subcube.fits` is in the same directory as
 ```sh
 python calculate_luminosity.py
 ```
+## Result 
+
+- Total Flux: 2.70e-08 erg/s/cm²
+- [C II] Luminosity: 5.93e+03 L_sun
 
 ## License
 
