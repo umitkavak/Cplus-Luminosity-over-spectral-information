@@ -63,7 +63,7 @@ Convert intensity from K km/s to erg/s/cm²/sr using the conversion factor \( 7 
 
 ```python
 # Convert intensity from K km/s to erg/s/cm²/sr
-conversion_factor = 7e-6  # Conversion factor
+conversion_factor = 7e-6  # Conversion factor from Goicoechea et al. (2015)
 intensity *= conversion_factor  # Apply conversion
 ```
 
